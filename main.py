@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+print("Adding comments")
 
 def my_function():
     print("Hello world")
